@@ -1,2 +1,2 @@
-def division(a, b):
+def divisions(a, b):
     return a / b
